@@ -9,7 +9,7 @@ public class Main
         Random rnd = new Random(); // creates new random number generator
         int ARRAY_SIZE = 100; //constant for Array size
         int [] dataPoints = new int[ARRAY_SIZE]; //declares array
-        double sum = 0; // variable declaration
+        double sum = 0; // variable declarations
         double average = 0; // variable declaration
         int valueEntered = 0; // variable declaration
         Scanner in = new Scanner(System.in); //creates new scanner
